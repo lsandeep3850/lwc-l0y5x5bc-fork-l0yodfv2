@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/lsandeep3850.lwc-l0y5x5bc-fork-l0yodfv2",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 2znURqTFUDbV8tm9hsTg --open"
+  }
+}
